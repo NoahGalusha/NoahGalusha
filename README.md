@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NoahGalusha
 - 👀 I’m interested in: Data visualization within a marketing context
 - 🌱 I’m currently learning: Database Management, Data Mining, Data Visualization
+- I've worked with: I was previously an analytics intern FONA International
 - 📫 How to reach me: Noahgalusha@gmail.com
 
 <!---
